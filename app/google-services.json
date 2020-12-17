@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "974823980456",
+    "project_id": "pawawinagenia1",
+    "storage_bucket": "pawawinagenia1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974823980456:android:132427d0f98f57cffc319d",
+        "android_client_info": {
+          "package_name": "com.example.erticidagenia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974823980456-vvei1tiht72r96vk7d6sp916t8ioainm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xJa1RvnsWCSrK_FxhDJPTR3BveOo2n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974823980456-vvei1tiht72r96vk7d6sp916t8ioainm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974823980456:android:794b860ed2d48a47fc319d",
+        "android_client_info": {
+          "package_name": "com.example.geniavarpatara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974823980456-vvei1tiht72r96vk7d6sp916t8ioainm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xJa1RvnsWCSrK_FxhDJPTR3BveOo2n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974823980456-vvei1tiht72r96vk7d6sp916t8ioainm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
